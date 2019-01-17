@@ -37,6 +37,8 @@ DEPENDENCIES
   rake
   rspec
   sqlite3
+  rb-readline
+  pry-coolline
 
 BUNDLED WITH
    1.16.0
